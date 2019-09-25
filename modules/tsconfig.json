@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "watch": true,
+        "noEmitOnError": true,
+        "outDir": "src",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "module": "commonjs"
+    }
+}
